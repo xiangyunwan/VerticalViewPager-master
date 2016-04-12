@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\VerticalViewPager-master\sample\build\intermediates\exploded-aar\VerticalViewPager-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4ebc5a60a285f9ade7916f51aecab42dc5cd9021">
+        <dex dex="D:\android_github\VerticalViewPager-master\sample\build\intermediates\pre-dexed\debug\classes-eeaa42ae95e2dec1b420e5d343e13624df161071.jar" />
+    </item>
+    <item
+        jar="D:\android_github\VerticalViewPager-master\sample\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\android_github\VerticalViewPager-master\sample\build\intermediates\pre-dexed\debug\classes-ca04d2d7698d0d8375a556cb198ef9dd661266b6.jar" />
+    </item>
+    <item
+        jar="D:\android_github\VerticalViewPager-master\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\android_github\VerticalViewPager-master\sample\build\intermediates\pre-dexed\debug\classes-37d0d0f1e978077dff575d101d539352d2428b30.jar" />
+    </item>
+    <item
+        jar="D:\android_github\VerticalViewPager-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\android_github\VerticalViewPager-master\sample\build\intermediates\pre-dexed\debug\classes-79e53c2092106b566eca66412aca8c523916c447.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\android_github\VerticalViewPager-master\sample\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-ba8bd9363cea32ce09d2ca11803007488a665f1f.jar" />
+    </item>
+    <item
+        jar="D:\android_github\VerticalViewPager-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\android_github\VerticalViewPager-master\sample\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-6b7081679d4177c5ba19e67c5b4b204938062c12.jar" />
+    </item>
+
+</items>
